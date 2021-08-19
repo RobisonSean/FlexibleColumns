@@ -1,0 +1,17 @@
+.col{
+    background: red;
+    flex: 1;
+    
+}
+.row{
+    display: flex;
+    padding: 10px;
+}
+.col-2{
+    flex: 2;
+    background: blue;
+    
+}
+.col-3{
+    flex: 3;
+    background:blueviolet; 
